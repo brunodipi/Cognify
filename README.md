@@ -4,4 +4,4 @@ La metodología se basa en un entrenamiento cognitivo personalizado para cada ca
 
 Para este proyecto estuvimos en contacto directo con el Hospital Maimonides, asesorandonos acerca de estos padecimientos. Trabajamos en conjunto para construir un sistema eficiente y practico tanto para el personal de medicina, como a los pacientes y sus familiares.
 
-La parte de software del proyecto consta en 2 codigos: Uno para la aplicación movile para Android, y otro para la parte fisica del proyecto donde se realizan los entrenamientos cognitivos en si. Para ver cualqueira de los 2 codigos se debe entrar a su respectiva carpeta.
+La parte de software del proyecto consta en 2 codigos: Uno para la aplicación movil para Android, y otro para la parte fisica del proyecto donde se realizan los entrenamientos cognitivos en si. Para ver cualqueira de los 2 codigos se debe entrar a su respectiva carpeta.
