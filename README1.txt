@@ -1,2 +1,0 @@
-La parte de software del proyecto consta en 2 codigos: Uno para la aplicación movile para Android, y otro para la parte fisica del proyecto
-donde se realizan los entrenamientos cognitivos en si. Para ver cualqueira de los 2 codigos se debe entrar a su respectiva carpeta.
