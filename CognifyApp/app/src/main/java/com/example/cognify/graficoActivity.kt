@@ -190,6 +190,7 @@ class graficoActivity : AppCompatActivity() {
 
                     }
                     //mostrarGrafico(listaDatosPresionesCorrectas, listaDatosPresiones)
+                    
 
                 }
 
